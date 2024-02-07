@@ -1,8 +1,8 @@
-# Automação Web Renner
+# Automação Web
 
 # Introdução
 
-    - Projeto de automação de testes web criado para o teste técnico da Renner
+    - Projeto de automação de testes web criado para um teste técnico
 
 ### Tecnologias utilizadas
 
